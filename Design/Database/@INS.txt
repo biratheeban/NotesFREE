@@ -1,0 +1,13 @@
+Please use SourceTree (GUI) or GitBash (Commandline) 
+
+Dowunload source tree @ https://www.sourcetreeapp.com/ Freeware 
+Use Method 
+
+Signup GitHub Account
+Clone the Repostory path https://github.com/biratheeban/NotesFREE.git
+
+Before use Source tree Enable Git & Mercurial and clone 
+
+
+Thank you .
+@biratheeban
